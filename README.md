@@ -10,5 +10,5 @@ To run the script, you'll need:
 - R installed on your machine.
 - Basic understanding of R programming and k-means clustering algorithm.
 ## Resources
-Go to the following link to install R:http://cran.r-project.org
-Go to the following link to download RStudio:http://www.rstudio.com/products/rstudio/download/
+- Go to the following link to install R:http://cran.r-project.org
+- Go to the following link to download RStudio:http://www.rstudio.com/products/rstudio/download/
